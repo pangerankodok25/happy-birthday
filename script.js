@@ -14,7 +14,7 @@ const nm_2 = document.getElementById("nama2")
 
 // edit data diri kalian di sini harus ada +62 diawal nomornya sebagain ganti 0, misal +62818....
 const nomor_hp_yang_ngirim = "+629982591998"
-const nama_yang_ngirim = "Rico Sevin Setiawan"
+const nama_yang_ngirim = "Rico"
 
 // nama 
 const nama = "Eva"
@@ -31,7 +31,7 @@ const kata = [
   `Semoga hari istimewamu sama luar biasanya denganmu 😊`,
   `Semoga ulang tahunmu dipenuhi cinta, kesenangan, dan kejutan ${nama}`,
   `Jangan lupa di makan 🍰 nya, meskipun virtual hehe`,
-  `Sekali lagi selamat ulang tahun ${nama} bahagia selalu 🙌✨`
+  `Sekali lagi selamat ulang tahun ${nama} semoga bahagia selalu 🙌✨`
 ]
 
 function gantiGambar(a) {
