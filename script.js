@@ -17,7 +17,7 @@ const nomor_hp_yang_ngirim = "+629982591998"
 const nama_yang_ngirim = "Rico Sevin Setiawan"
 
 // nama 
-const nama = "Udin Kencleng"
+const nama = "Eva"
 
 // yang ini biarin aja
 let n = 0
@@ -28,10 +28,10 @@ nm_2.textContent = nama_yang_ngirim
 // kata katanya tapi perhatiin tanda `` nya biar enggak eror
 const kata = [
   `Selamat ulang tahun ya ${nama}, 🎂`,
-  `Jaga kesehatan yaaa 🙃`,
-  `Selalu tersenyum, meskipun tiap hari dimarahin atasan ${nama}`,
-  `Jangan lupa di makan 🍰 nya, walau virtual hehe`,
-  `Sekali lagi selamat ulang tahun ${nama} kencleng pea 🙌✨`
+  `Semoga hari istimewamu sama luar biasanya denganmu 😊`,
+  `Semoga ulang tahunmu dipenuhi cinta, kesenangan, dan kejutan ${nama}`,
+  `Jangan lupa di makan 🍰 nya, meskipun virtual hehe`,
+  `Sekali lagi selamat ulang tahun ${nama} bahagia selalu 🙌✨`
 ]
 
 function gantiGambar(a) {
